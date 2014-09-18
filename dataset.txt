@@ -1,0 +1,19 @@
+http://logd.tw.rpi.edu/datasets
+
+
+
+http://data-gov.tw.rpi.edu/wiki/Data.gov_Catalog_-_Complete
+
+http://logd.tw.rpi.edu/tutorial/How_to_find_datasets_using_the_LOGD_sparql_endpoint
+
+
+
+each file has .rdf addresses listed new mexico like city name, county name, longitude, latitude
+TELLBROOK SUBDIVISION WASTEWATER SYSTEM
+
+
+new mexico -22765
+one file had around 500,000 records where each subject say <http://data-gov.tw.rpi.edu/raw/1000/data-1000-00036.rdf#entry18028>, where number just before .rdf# changes had close to 27 records
+
+each small business or govt agency had around 27 entries like primary name, state, type of business
+in a subject the last part of the name changes after completing one small business
